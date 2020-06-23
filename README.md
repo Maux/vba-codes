@@ -25,4 +25,4 @@
   <p>VBA & Excel logos are registered trademarks of Microsoft Corporation, which owns its copyright.</p>
 </details>
 <hr>
-<sup><em>&copy; Copyright Reserved by Maux - Brasil 2020.</em></sup>
+<sup><em>&copy; Copyright Reserved by [Maux](https://maux.github.io/mypage/) - Brasil 2020.</em></sup>
