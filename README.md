@@ -1,6 +1,5 @@
-[![GitHub](https://img.shields.io/github/license/Maux/vba-codes)](https://opensource.org/licenses/MIT) [![GitHub repo size](https://img.shields.io/github/repo-size/Maux/vba-codes?color=blue&label=vba-codes&logo=github&logoColor=white)](https://github.com/Maux/vba-codes/)
-<br><h2><a href="https://github.com/Maux/vba-codes" alt="VBA-CODES" title="VBA_CODES">Códigos de VBA para Microsoft<sup>&reg;</sup> Excel</a></h2>
-<img src="./src/img/vba-codes.png" title="VBA Excel" alt="VBA Excel">
+[![GitHub](https://img.shields.io/github/license/Maux/vba-codes)](https://opensource.org/licenses/MIT) [![GitHub repo size](https://img.shields.io/github/repo-size/Maux/vba-codes?color=blue&label=vba-codes&logo=github&logoColor=white)](https://github.com/Maux/vba-codes/)<br>
+<a href="https://github.com/Maux/vba-codes" alt="VBA-CODES" title="Códigos de VBA para Microsoft<sup>&reg;</sup> Excel"><img src="./src/img/vba-codes.png" title="VBA Excel" alt="VBA Excel"></a>
 <details>
   <summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" alt="PT-BR" title="PT-BR"> <strong>Aviso Legal</strong></summary>
   <blockquote>
